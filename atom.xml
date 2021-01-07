@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Yokimt/Yokimt.git</id>
-    <title>Gridea</title>
-    <updated>2021-01-07T08:29:53.029Z</updated>
+    <title>Mono</title>
+    <updated>2021-01-07T08:39:48.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/Yokimt/Yokimt.git"/>
     <link rel="self" href="https://github.com/Yokimt/Yokimt.git/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>欸嘿嘿</subtitle>
     <logo>https://github.com/Yokimt/Yokimt.git/images/avatar.png</logo>
     <icon>https://github.com/Yokimt/Yokimt.git/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Mono</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://github.com/Yokimt/Yokimt.git/post/hello-gridea/</id>
@@ -39,7 +39,14 @@
 <p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
 <p>未来，它一定会成为你离不开的伙伴</p>
 <p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+<p>Hello world</p>
+<p>#include &lt;stdio.h&gt;<br>
+int main()<br>
+{<br>
+printf(&quot;hello world&quot;);<br>
+return 0;<br>
+}<br>
+😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
