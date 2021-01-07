@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/Yokimt/Yokimt.git</id>
+    <id>https://Yokimt.github.io</id>
     <title>Mono</title>
-    <updated>2021-01-07T08:39:48.499Z</updated>
+    <updated>2021-01-07T09:03:56.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/Yokimt/Yokimt.git"/>
-    <link rel="self" href="https://github.com/Yokimt/Yokimt.git/atom.xml"/>
+    <link rel="alternate" href="https://Yokimt.github.io"/>
+    <link rel="self" href="https://Yokimt.github.io/atom.xml"/>
     <subtitle>欸嘿嘿</subtitle>
-    <logo>https://github.com/Yokimt/Yokimt.git/images/avatar.png</logo>
-    <icon>https://github.com/Yokimt/Yokimt.git/favicon.ico</icon>
+    <logo>https://Yokimt.github.io/images/avatar.png</logo>
+    <icon>https://Yokimt.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Mono</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/Yokimt/Yokimt.git/post/hello-gridea/</id>
-        <link href="https://github.com/Yokimt/Yokimt.git/post/hello-gridea/">
+        <id>https://Yokimt.github.io/post/hello-gridea/</id>
+        <link href="https://Yokimt.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
