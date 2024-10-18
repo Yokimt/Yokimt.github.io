@@ -48,7 +48,22 @@ outputs:
     - RSS # 这个其实无所谓
     - JSON # necessary for search, 这里的配置修改好之后，一定要重新生成一下
 params:
-  # 设置网站的标签页的图标，即 favicon
+   # 评论的设置
+  giscus:
+    repo: "Yokimt/Yokimt.github.io"
+    repoId: "R_kgDONCFtzg"
+    category: "Announcements"
+    categoryId: "DIC_kwDONCFtzs4CjeU9"
+    mapping: "pathname"
+    strict: "0"
+    reactionsEnabled: "1"
+    emitMetadata: "0"
+    inputPosition: "bottom"
+    lightTheme: "preferred_color_scheme"
+    darkTheme: "preferred_color_scheme"
+    lang: "zh-CN"
+    crossorigin: "anonymous"
+
   assets:
       favicon: "favicon.png"
       favicon16x16: "favicon.png"
