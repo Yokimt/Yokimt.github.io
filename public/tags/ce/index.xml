@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CE on 虚空遁地猪qwq&#39;s Blog</title>
+    <link>http://localhost:1313/tags/ce/</link>
+    <description>Recent content in CE on 虚空遁地猪qwq&#39;s Blog</description>
+    <generator>Hugo -- 0.136.2</generator>
+    <language>zh</language>
+    <copyright>©2024 虚空遁地猪qwq&amp;rsquo;s Blog</copyright>
+    <lastBuildDate>Fri, 18 Oct 2024 15:35:13 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CT表的更新</title>
+      <link>http://localhost:1313/posts/ct%E8%A1%A8%E7%9A%84%E6%9B%B4%E6%96%B0/</link>
+      <pubDate>Fri, 18 Oct 2024 15:35:13 +0800</pubDate>
+      <guid>http://localhost:1313/posts/ct%E8%A1%A8%E7%9A%84%E6%9B%B4%E6%96%B0/</guid>
+      <description>&lt;h3 id=&#34;1首先是打开ce选择进程导入我们过期的ct表然后点击上面的mono勾选上activate-mono-features&#34;&gt;1.首先是打开ce选择进程导入我们过期的ct表，然后点击上面的Mono，勾选上Activate mono features&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/CT%e8%a1%a8%e7%9a%84%e6%9b%b4%e6%96%b0/1729239564941.png&#34; alt=&#34;1729239564941&#34;  /&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;2通过以前的群组方法搜索如下图&#34;&gt;2.通过以前的群组方法搜索如下图：&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/CT%e8%a1%a8%e7%9a%84%e6%9b%b4%e6%96%b0/1729239706750.png&#34; alt=&#34;1729239706750&#34;  /&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;3具体操作就是开始战斗时-搜索第一个角色行动时暂停将第二个值改为1重新搜索就会找到一组数据-随着游戏一起变化的那组就是我们要的&#34;&gt;3.具体操作就是开始战斗时 搜索，第一个角色行动时暂停，将第二个值改为1，重新搜索。就会找到一组数据 随着游戏一起变化的那组就是我们要的。&lt;/h3&gt;
+&lt;h3 id=&#34;4选中第二个表示行动角色的值右键找出是什么写入了该值&#34;&gt;4.选中第二个表示行动角色的值，右键找出是什么写入了该值。&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/CT%e8%a1%a8%e7%9a%84%e6%9b%b4%e6%96%b0/1729240040453.png&#34; alt=&#34;1729240040453&#34;  /&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;5此时回到游戏让角色行动一下再返回ce可以看到有指令去修改了这个值&#34;&gt;5.此时回到游戏，让角色行动一下，再返回ce，可以看到有指令去修改了这个值&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/CT%e8%a1%a8%e7%9a%84%e6%9b%b4%e6%96%b0/1729240128895.png&#34; alt=&#34;1729240128895&#34;  /&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;6双击点开这条指令继续点击红色的指令部分会跳转到内存查看器&#34;&gt;6.双击点开这条指令，继续点击红色的指令部分，会跳转到内存查看器。&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/CT%e8%a1%a8%e7%9a%84%e6%9b%b4%e6%96%b0/1729240166903.png&#34; alt=&#34;1729240166903&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
