@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://yokimt.github.io/sitemap.xml
