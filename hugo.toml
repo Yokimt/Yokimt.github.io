@@ -2,3 +2,5 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 theme = 'hugo-PaperMod'
 title = '虚空遁地猪qwq'
+logo = "img/icon-32.png"
+svgFavicon = "/fac.svg"
