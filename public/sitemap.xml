@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2024-10-18T15:05:34+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-18T15:05:34+08:00</lastmod>
+    <loc>http://localhost:1313/posts/ct%E8%A1%A8%E7%9A%84%E6%9B%B4%E6%96%B0/</loc>
+    <lastmod>2024-10-18T15:35:13+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-10-18T15:05:34+08:00</lastmod>
+    <lastmod>2024-10-18T15:35:13+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-10-18T15:35:13+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
