@@ -2,6 +2,8 @@
 date = '2024-10-18T15:35:13+08:00'
 draft = false
 title = 'CT表的更新'
+categories = ["游戏修改"]
+tags = ["CE", "CT表"]
 +++
 
 ### 1.首先是打开ce选择进程导入我们过期的ct表，然后点击上面的Mono，勾选上Activate mono features
